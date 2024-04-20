@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interactions with blockchain sites
 - 📫 How to reach me devoncapman@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: Musician, guitar and vocals.
+- ⚡ Fun fact: Musician, guitars and vocals.
 
 <!---
 dcapman/dcapman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
