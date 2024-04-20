@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dcapman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning NFT and Blockchain options
-- 💞️ I’m looking to collaborate on interactions with blockchan sites
+- 💞️ I’m looking to collaborate on interactions with blockchain sites
 - 📫 How to reach me devoncapman@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Musician, guitar and vocals.
